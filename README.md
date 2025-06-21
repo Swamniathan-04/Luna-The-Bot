@@ -85,11 +85,6 @@ You can adjust:
 
 ---
 
-## 🤖 Bot Showcase
-
-![Luna-The-Bot in Action](./assets/luna-showcase.gif)
-
----
 
 ## 🙋 FAQ
 
